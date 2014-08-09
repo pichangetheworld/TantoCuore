@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TantaCuore</string>
+    <string name="action_settings">Settings</string>
+    <string name="generate">Generate</string>
+    <string name="output">Set %1$d: %2$-2d %3$s</string>
+    <string name="chiefs_title">Maid Chiefs</string>
+    <string name="chiefs">Set %1$d: %2$s</string>
+
+</resources>
