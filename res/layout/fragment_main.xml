@@ -6,7 +6,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.pichangetheworld.tantacuore.MainActivity$PlaceholderFragment" >
+    tools:context="com.pichangetheworld.tantocuore.MainActivity$PlaceholderFragment" >
 
     <Button
         android:id="@+id/button1"
@@ -87,7 +87,7 @@
     <TextView
         android:id="@+id/chief1"
         style="@style/TextStyle"
-        android:layout_alignLeft="@+id/chiefs"
+        android:layout_alignLeft="@+id/gridLayout"
         android:layout_below="@+id/chiefs"
         android:text="@string/chiefs" />
 
